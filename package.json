@@ -1,0 +1,29 @@
+{
+  "name": "indonesia-provinces",
+  "version": "0.1.0",
+  "description": "List of Indonesia provinces",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hengki Sihombing <hengki.sihombing@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aredo/indonesia-provinces.git"
+  },
+  "keywords": [
+    "indonesia",
+    "provinces",
+    "city"
+  ],
+  "bugs": {
+    "url": "https://github.com/aredo/indonesia-provinces/issues"
+  },
+  "homepage": "https://github.com/aredo/indonesia-provinces",
+  "devDependencies": {
+    "request": "^2.36.0",
+    "express": "^4.4.1",
+    "cheerio": "^0.16.0"
+  }
+}
